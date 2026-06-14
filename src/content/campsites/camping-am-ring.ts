@@ -74,12 +74,12 @@ const campingAmRing: CampsiteConfig = {
     features: [
       {
         title: "Voller Komfort am Platz",
-        text: "Tolle Infrastruktur, ebene Stellplätze und kurze Wege von nur 1–3 Minuten — alles, was du fürs Wochenende brauchst, ist direkt vor Ort.",
+        text: "Tolle Infrastruktur, ebene Stellplätze und kurze Wege — alles, was du fürs Wochenende brauchst, ist direkt vor Ort.",
         image: { src: `${IMG}/gallery-718ca76826.webp`, alt: "Rustikale Hausfront des Baumessner-Hofs mit Blumenschmuck und altem Gerät" },
       },
       {
         title: "Gastronomie & Verpflegung",
-        text: "Frühstück mit frischem Gebäck, warme Speisen und regionale Spezialitäten — und abends lässt du den Tag gemütlich an der Bar ausklingen.",
+        text: "Frühstück mit frischem Gebäck, warme Speisen und regionale Spezialitäten — abends klingt der Tag an der Bar aus.",
         image: { src: `${IMG}/gallery-08203e36c2.webp`, alt: "Verpflegung am Camping TÜRKIS — Gäste am Imbiss- und Barstand" },
       },
       {
