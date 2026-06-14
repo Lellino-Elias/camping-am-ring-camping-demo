@@ -41,7 +41,7 @@ const campingAmRing: CampsiteConfig = {
     {
       title: "Echte Atmosphäre",
       text: "Gewachsener Hofcharakter mit Blumenschmuck und altem Gerät statt Massencamping — hier hat das Wochenende noch ein Gesicht.",
-      image: { src: `${IMG}/gallery-718ca76826.webp`, alt: "Rustikale Hausfront des Baumessner-Hofs mit Blumenschmuck" },
+      image: { src: `${IMG}/gallery-6dfd5339a0.webp`, alt: "Camping TÜRKIS auf der grünen Anhöhe mit Bauernhof und Stellplätzen über dem Murtal" },
     },
   ],
 
@@ -75,7 +75,7 @@ const campingAmRing: CampsiteConfig = {
       {
         title: "Voller Komfort am Platz",
         text: "Tolle Infrastruktur, ebene Stellplätze und kurze Wege von nur 1–3 Minuten — alles, was du fürs Wochenende brauchst, ist direkt vor Ort.",
-        image: { src: `${IMG}/gallery-6dfd5339a0.webp`, alt: "Campingplatz Camping TÜRKIS mit Stellplätzen und Veranstaltungszelt" },
+        image: { src: `${IMG}/gallery-718ca76826.webp`, alt: "Rustikale Hausfront des Baumessner-Hofs mit Blumenschmuck und altem Gerät" },
       },
       {
         title: "Gastronomie & Verpflegung",
